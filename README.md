@@ -64,6 +64,6 @@ Modern web application with a React frontend and scalable backend APIs.
 
 ## 📫 Connect
 
-* LinkedIn: https://linkedin.com/in/your-profile
-* Portfolio: https://your-portfolio.com
-* Email: [your@email.com](mailto:your@email.com)
+* LinkedIn: https://www.linkedin.com/in/tofa-mwangi117/
+* Portfolio: tofa-portfolio.vercel.app
+* Email: mwangitofa@gmail.com
