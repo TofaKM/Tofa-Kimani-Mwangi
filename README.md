@@ -1,29 +1,69 @@
-🚀 Hi, I'm Tofa Kimani Mwangi
+# Hi, I'm Tofa Kimani Mwangi 👋
 
-A Data Engineer and Software Developer specializing in building scalable full-stack applications, designing robust ETL pipelines, and optimizing complex workflows.
+**Full-Stack Developer | Data Engineer | AI Agent Developer**
 
-I have built over 5 repository projects which you can find pinned directly to my GitHub profile! 
+Building scalable applications with **React, Node.js, Java, Python, PostgreSQL, Docker, and AI agents**.
 
-🛠️ Tech StackLanguages: 
+## 🚀 Featured Projects
 
-Python, JavaScript, Java, SQL  
+### 🏥 Hospital ETL Pipeline
 
-Data Engineering: Docker, Apache Airflow, ETL Pipelines, Pandas, NumPy, Data Modeling  
+Containerized ETL pipeline that cleans, validates, and transforms hospital data using Python, PostgreSQL, SQL, and Docker.
 
-Web Dev: Node.js, Express, React, MySQL, MongoDB, PostgreSQL  
+**Tech:** Python • PostgreSQL • Docker • SQL
 
-💼 Experience & Education
+---
 
-IT Intern @ Social Health Authority (Automated reporting and optimized large-scale datasets)  
+### 🤖 AI Agent
 
-B.Sc. in Applied Computing @ KCA University  
+Intelligent AI workflow powered by LLMs, tool calling, and autonomous task execution.
 
-Data Engineering Specialist @ ALX Africa  - Currently
+**Tech:** Python • LangGraph/LangChain • OpenAI • FastAPI
 
-📬 ConnectPortfolio: 
+---
 
-Portfilio : tofa-portfolio.vercel.app
+### 🌐 Full-Stack Application
 
-Email: mwangitofa@gmail.com  
+Modern web application with a React frontend and scalable backend APIs.
 
-GitHub: @TofaKM  
+**Tech:** React • Node.js • Java • PostgreSQL
+
+---
+
+## 🛠 Tech Stack
+
+**Frontend**
+
+* React
+* JavaScript
+* HTML/CSS
+
+**Backend**
+
+* Node.js
+* Java
+* Python
+
+**Databases**
+
+* PostgreSQL
+* MySQL
+
+**DevOps**
+
+* Docker
+* Git
+* GitHub
+
+**AI**
+
+* AI Agents
+* LangGraph
+* LangChain
+* OpenAI API
+
+## 📫 Connect
+
+* LinkedIn: https://linkedin.com/in/your-profile
+* Portfolio: https://your-portfolio.com
+* Email: [your@email.com](mailto:your@email.com)
